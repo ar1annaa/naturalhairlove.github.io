@@ -1,0 +1,286 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 12px;
+   padding: 20px;
+}
+
+body {
+ background-color: #b09b6d; 
+ border: 6px solid #ffffff;
+}
+
+.banner {
+  background-color: white;
+  background-position: center;
+  height: 20px;
+  justify-content: center;
+
+}
+
+/* STYLE TEXT */
+
+.top {
+  color: #000000;
+   text-shadow: 3px 3px 2px #fcfcfc;
+  font-family:'Abril Fatface', serif;
+  text-align: center;
+  font-size: 80px;
+  
+}
+
+h2 {
+  font-family: "Courier New";
+  text-decoration: underline;
+  font-size: 30px
+}
+.issue {
+  color: #e2c6e1;
+  text-shadow: 3px 3px 2px #161313;
+  font-family:'Abril Fatface', serif;
+  text-align: center;
+  font-size:50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+h3 {
+  font-family: "Courier New";
+  text-decoration: underline;
+  font-size: 20px
+  
+}
+
+.beauty {
+  color: #ffffff;
+  text-shadow: 3px 3px 2px #161313;
+  font-family:'Abril Fatface', serif;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+}
+
+/* STYLE IMAGES */
+
+ .collage {
+   max-width: 780px;
+   max-height: 780px;
+   justify-content: center;
+   border-radius: 10%;
+   border: 5px solid #050505;
+   border-radius: 4px;
+   padding: 5px;
+   width: 580px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+
+ }
+
+.text{
+  color: #181611;
+  font-family:'Abril Fatface', serif;
+  text-align: right;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+/* STYLE NAV BAR */
+nav{
+  text-align: center;
+  font-family:'Abril Fatface', serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.link {
+  display: inline;
+}
+
+
+a {
+  color: #ffffff;
+  padding: 1em;
+  text-decoration: none;
+  font-size: 48px;
+  
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 2px solid #ded4dc;
+  border-radius: 5px;
+}
+* { /* Reset the space of the webpage */
+   margin: 12px;
+   padding: 20px;
+}
+
+.howto {
+  color: #000000;
+  text-decoration: underline;
+  font-family:'Abril Fatface', serif;
+  text-align: center;
+  text-shadow: 3px 3px 2px pink;
+  font-size: 80px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.start {
+  color: white;
+  font-family: "Courier New";
+  text-align: left;
+  font-size: 38px;
+}
+
+.think {
+  color: #d2b2cb;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #161313;
+  text-align: left;
+  font-size: 38px;
+}
+
+.dont {
+  color: #black;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #dec6e2;
+  text-align: left;
+  font-size: 28px;
+  text-align: center;
+  
+}
+
+.parent {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Abril Fatface', serif;
+   text-shadow: 3px 3px 2px #000000;
+  text-align: left;
+  font-size: 38px;
+}
+
+.kids {
+  color: black;
+  font-family:"Courier New", sans-serif;
+   text-shadow: 3px 3px 2px #e9d2d2;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.hairpic {
+  color: #ffffff;
+  font-family:  "Courier New";
+  text-size: 22px;
+  text-decoration: underline;
+  text-align: center;
+  font-weight: bold; 
+}
+
+h5 {
+  color: #d2b6cf;
+  text-decoration: underline;
+  font-family:'Abril Fatface', serif;
+  text-align: center;
+  text-shadow: 3px 3px 2px #030202;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.helpyou {
+  color: #ffffff;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #161313;
+  text-align: center;
+  font-size: 28px;
+}
+
+.book1 {
+  max-width:15%;
+  max-height: 15%;
+  border-radius: 10%;
+  float: left;
+}
+
+.resource {
+  color: #black;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #f2d4f1;
+  text-align: center;
+  font-size: 58px;
+}
+
+.vouge {
+  color: #ffffff;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #161313;
+  text-align: right;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+
+.empower {
+  color: #ffffff;
+  font-family: 'Abril Fatface', serif;
+  text-shadow: 3px 3px 2px #161313;
+  text-align: center;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.howtojp {
+  float: right;
+  max-width: 30%;
+  max-height: 30%;
+  border-radius: 10%;
+  
+}
+
+/* MEDIA QUERIES  - Includes Make it responsive Key Feature */
+@media screen and (max-width: 850px) { /* Breakpoint 1 */
+  .flex-container {
+    flex-wrap: wrap; 
+  }
+
+  /* STYLE IMAGES - Includes Make it responsive Key Feature */
+  img {
+    display: block;      
+    width: 90%;          
+    height: auto;        
+    margin-left: auto;
+    margin-right: auto;
+
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 5px;
+  }
+
+  .flex-container {      
+    display: flex;       
+    flex-direction: row; 
+    flex-wrap: nowrap;   
+  } 
+
+  .flex-item {           
+    flex-basis: 100%;    
+    margin: 1%;          
+  }
+
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
